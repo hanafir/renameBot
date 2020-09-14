@@ -15,7 +15,7 @@ An Open Source Rename Telegram RoBot
 
 ### You can also tap the Deploy To Heroku button below to deploy straight to Heroku!
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/erichdanikeninfo/TG-Rename-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/hanafir/renameBot)
 
 **upgrade** your subscription for [@AnyDLBot](https://telegram.dog/AnyDLBot) without having to run anything on your own
 
@@ -34,6 +34,7 @@ python bot.py
 * [TG Bots Updates](https://telegram.dog/TGBotsz)
 * [InFoTel Paid Apps](https://telegram.dog/InFoTel14)
 * [InFoTel Group](https://telegram.dog/InFoTelGroup)
+* [APK MOD Indo](https://telegram.org/Editor_Indonesia)
 
 ## Credits, and Thanks to
 
